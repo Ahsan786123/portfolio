@@ -116,6 +116,7 @@ export const experiences = [
         icon: starbucks,
         iconBg: "#accbe1",
         date: "September 2024- september 2025",
+        link: "https://t.me/working_chhanel",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,6 +130,7 @@ export const experiences = [
         icon: tesla,
         iconBg: "#fbc3bc",
         date: "September 2024- september 2025",
+        link: "https://t.me/working_chhanel",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -141,6 +143,7 @@ export const experiences = [
         company_name: "Shopify",
         icon: shopify,
         iconBg: "#b7e4c7",
+        link: "https://t.me/working_chhanel",
         date: "November 2024-Sptember 2025",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
@@ -154,6 +157,7 @@ export const experiences = [
         company_name: "Meta",
         icon: meta,
         iconBg: "#a2d2ff",
+        link: "https://t.me/working_chhanel",
         date: "Jan 2024 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
